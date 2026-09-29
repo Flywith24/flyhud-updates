@@ -2,6 +2,21 @@
   "schemaVersion": 1,
   "platform": "iOS",
   "bundleID": "com.flywith24.FlyHUD",
-  "expiresAt": "2027-09-29T03:47:03Z",
-  "channels": {}
+  "expiresAt": "2026-10-06T06:00:21Z",
+  "channels": {
+    "testFlight": {
+      "version": "0.1.0",
+      "build": "10",
+      "minimumOS": "17.0",
+      "enabled": true,
+      "publishedAt": "2026-09-29T06:00:21Z",
+      "expiresAt": "2026-10-06T06:00:21Z",
+      "url": "https://testflight.apple.com/join/1dQMVhMs",
+      "highlights": [
+        "支持订阅试用、购买与恢复购买。 / Subscription trials, purchases, and restore.",
+        "新增版本检查与更新提醒。 / Check for new versions and see what's changed.",
+        "优化设置布局及试用状态展示。 / Refined Settings and trial status."
+      ]
+    }
+  }
 }
