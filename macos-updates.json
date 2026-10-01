@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "platform": "macOS",
+  "bundleID": "com.flywith24.FlyHUD",
+  "expiresAt": "2027-10-01T00:00:00Z",
+  "channels": {
+    "appStore": {
+      "version": "1.0.8",
+      "build": "27",
+      "minimumOS": "14.0",
+      "enabled": true,
+      "publishedAt": "2026-09-30T21:47:42Z",
+      "expiresAt": "2027-10-01T00:00:00Z",
+      "url": "https://apps.apple.com/app/id6787705132",
+      "highlights": [
+        "增加视频时间不匹配的提示。 / Added warnings when video and activity times do not match.",
+        "优化界面布局与提示。 / Improved interface layout and warnings."
+      ]
+    }
+  }
+}
