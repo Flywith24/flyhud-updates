@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "platform": "iOS",
   "bundleID": "com.flywith24.FlyHUD",
-  "expiresAt": "2026-10-06T06:00:21Z",
+  "expiresAt": "2026-10-09T22:56:01Z",
   "channels": {
     "testFlight": {
       "version": "0.1.0",
@@ -16,6 +16,20 @@
         "支持订阅试用、购买与恢复购买。 / Subscription trials, purchases, and restore.",
         "新增版本检查与更新提醒。 / Check for new versions and see what's changed.",
         "优化设置布局及试用状态展示。 / Refined Settings and trial status."
+      ]
+    },
+    "appStore": {
+      "version": "1.1.0",
+      "build": "15",
+      "minimumOS": "17.0",
+      "enabled": true,
+      "publishedAt": "2026-10-02T22:56:01Z",
+      "expiresAt": "2026-10-09T22:56:01Z",
+      "url": "https://apps.apple.com/app/id6787705132",
+      "highlights": [
+        "新增竞速仪表盘与 FIT 计圈卡，支持统计指标选择、短圈筛选和手动分组。 / Added Race Bars and FIT lap cards with selectable statistics, short-lap filtering and manual grouping.",
+        "改进 Active HDR 导出兼容性与视频导出稳定性。 / Improved Active HDR export compatibility and video export reliability.",
+        "修复 Strava 计圈同步与缓存恢复，优化仪表盘编辑、骑手列表和语言菜单。 / Fixed Strava lap synchronization and cache restoration, and refined dashboard editing, rider profiles and the language menu."
       ]
     }
   }

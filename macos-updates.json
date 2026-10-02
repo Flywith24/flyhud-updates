@@ -2,19 +2,20 @@
   "schemaVersion": 1,
   "platform": "macOS",
   "bundleID": "com.flywith24.FlyHUD",
-  "expiresAt": "2027-10-01T00:00:00Z",
+  "expiresAt": "2026-10-09T22:56:01Z",
   "channels": {
     "appStore": {
-      "version": "1.0.8",
-      "build": "27",
+      "version": "1.1.0",
+      "build": "29",
       "minimumOS": "14.0",
       "enabled": true,
-      "publishedAt": "2026-09-30T21:47:42Z",
-      "expiresAt": "2027-10-01T00:00:00Z",
+      "publishedAt": "2026-10-02T22:56:01Z",
+      "expiresAt": "2026-10-09T22:56:01Z",
       "url": "https://apps.apple.com/app/id6787705132",
       "highlights": [
-        "增加视频时间不匹配的提示。 / Added warnings when video and activity times do not match.",
-        "优化界面布局与提示。 / Improved interface layout and warnings."
+        "新增竞速仪表盘与 FIT 计圈卡，支持统计指标选择、短圈筛选和手动分组。 / Added Race Bars and FIT lap cards with selectable statistics, short-lap filtering and manual grouping.",
+        "改进 Active HDR 导出兼容性、导出取消与任务反馈。 / Improved Active HDR export compatibility, export cancellation and task feedback.",
+        "修复 Strava 计圈同步与缓存恢复，优化播放及仪表盘编辑。 / Fixed Strava lap synchronization and cache restoration, and improved playback and dashboard editing."
       ]
     }
   }
