@@ -2,20 +2,20 @@
   "schemaVersion": 1,
   "platform": "macOS",
   "bundleID": "com.flywith24.FlyHUD",
-  "expiresAt": "2026-10-09T22:56:01Z",
+  "expiresAt": "2026-10-15T00:48:44Z",
   "channels": {
     "appStore": {
-      "version": "1.1.0",
-      "build": "29",
+      "version": "1.2.0",
+      "build": "30",
       "minimumOS": "14.0",
       "enabled": true,
-      "publishedAt": "2026-10-02T22:56:01Z",
-      "expiresAt": "2026-10-09T22:56:01Z",
+      "publishedAt": "2026-10-08T00:48:44Z",
+      "expiresAt": "2026-10-15T00:48:44Z",
       "url": "https://apps.apple.com/app/id6787705132",
       "highlights": [
-        "新增竞速仪表盘与 FIT 计圈卡，支持统计指标选择、短圈筛选和手动分组。 / Added Race Bars and FIT lap cards with selectable statistics, short-lap filtering and manual grouping.",
-        "改进 Active HDR 导出兼容性、导出取消与任务反馈。 / Improved Active HDR export compatibility, export cancellation and task feedback.",
-        "修复 Strava 计圈同步与缓存恢复，优化播放及仪表盘编辑。 / Fixed Strava lap synchronization and cache restoration, and improved playback and dashboard editing."
+        "新增沉浸仪表盘，支持独立调整骑行指标、路线与海拔图。 / Added the Immersive dashboard with independently adjustable ride metrics, route and elevation profile.",
+        "竞速与 Zwift 新增 Strava 赛段计时、收藏筛选及可用时的个人最佳对比。 / Added Strava segment timing, starred-segment filters and personal-best comparisons when available to Race Bars and Zwift.",
+        "优化仪表盘编辑、计圈显隐、模板封面与导出性能。 / Improved dashboard editing, lap visibility, template covers and export performance."
       ]
     }
   }
