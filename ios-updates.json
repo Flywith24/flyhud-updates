@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "platform": "iOS",
   "bundleID": "com.flywith24.FlyHUD",
-  "expiresAt": "2026-10-15T00:48:44Z",
+  "expiresAt": "2026-10-21T03:45:46Z",
   "channels": {
     "testFlight": {
       "version": "0.1.0",
@@ -19,17 +19,17 @@
       ]
     },
     "appStore": {
-      "version": "1.2.0",
-      "build": "16",
+      "version": "1.3.0",
+      "build": "21",
       "minimumOS": "17.0",
       "enabled": true,
-      "publishedAt": "2026-10-08T00:48:44Z",
-      "expiresAt": "2026-10-15T00:48:44Z",
+      "publishedAt": "2026-10-14T03:45:46Z",
+      "expiresAt": "2026-10-21T03:45:46Z",
       "url": "https://apps.apple.com/app/id6787705132",
       "highlights": [
-        "新增沉浸仪表盘，支持独立调整骑行指标、路线与海拔图。 / Added the Immersive dashboard with independently adjustable ride metrics, route and elevation profile.",
-        "竞速与 Zwift 新增 Strava 赛段计时、收藏筛选及可用时的个人最佳对比。 / Added Strava segment timing, starred-segment filters and personal-best comparisons when available to Race Bars and Zwift.",
-        "优化计圈显隐、仪表盘编辑、模板封面与导出表现。 / Improved lap visibility, dashboard editing, template covers and export behavior."
+        "完整功能试用延长至总共 30 天，从原领取日起算，恢复购买不重置 / Full-feature trial extended to 30 days total from the original claim date; restoring does not restart it",
+        "新增功率平滑、训练目标、过圈对比及齿数显示 / Added power smoothing, workout targets, lap comparisons, and gear tooth counts",
+        "优化仪表盘缩放、编辑面板、线路手势与触感反馈 / Improved HUD scaling, editing panels, route gestures, and haptic feedback"
       ]
     }
   }
